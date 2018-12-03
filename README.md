@@ -65,6 +65,8 @@ Modify files in `templates` and `static` directory.
 
 - Go to the folder where you have cloned my repo and follow the steps given on the page
 
+- Once you are done, you will see the link to check your app on browser like this https://water-classifier1.herokuapp.com/
+
 
 
 
