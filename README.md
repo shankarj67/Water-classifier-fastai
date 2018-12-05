@@ -67,6 +67,8 @@ Modify files in `templates` and `static` directory.
 
 - Once you are done, you will see the link to check your app on browser like this https://water-classifier1.herokuapp.com/
 
+Note: If App is showing Application error then refresh the browser,It will work fine.
+
 
 
 
